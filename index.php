@@ -1,3 +1,3 @@
 <?php 
-echo 'weweweweweuhjkghjg';
+echo 'testing server';
 ?>
